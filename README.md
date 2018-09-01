@@ -1,4 +1,4 @@
-# slack2affiliate
+# slack-speaks
 
 local run
 
